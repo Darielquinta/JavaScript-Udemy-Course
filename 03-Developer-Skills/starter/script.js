@@ -19,7 +19,7 @@ const measureKelvin = function() {
 
 console.log(measureKelvin());
 
-*/
+
 
 const maxTemp1 = [17, 21, 23];
 const maxTemp2 = [12, 5, -5, 0, 4];
@@ -38,3 +38,16 @@ const printForecast = function(arr) {
 
 printForecast(maxTemp1);
 printForecast(maxTemp2);
+*/
+
+console.log("test");
+console.log("test");
+
+console.log("test");
+console.log("test");
+
+console.log("test");
+
+console.log("test");
+
+document.write("Testdfsfdsjalfdsadfslajlfksadjladfjdlsafk;jaj");
