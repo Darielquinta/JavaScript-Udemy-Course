@@ -43,11 +43,9 @@ printForecast(maxTemp2);
 console.log("test");
 console.log("test");
 
-console.log("test");
-console.log("test");
+console.log("fdsjasdfl;jfdsalkfjdsalksjtesjt");
+console.log("testjlkjl");
 
 console.log("test");
 
-console.log("test");
-
-document.write("Testdfsfdsjalfdsadfslajlfksadjladfjdlsafk;jaj");
+console.log("teldkfsajf;kjkjjlkjlkjdlst");
